@@ -9,9 +9,9 @@
 
 ## Instructions
 
-+1 chop avocadoes  
-+2 chop onion  
-+3 squeeze lime  
-+4 add salt  
-+4 mix well  
+1. chop avocadoes  
+2. chop onion  
+3. squeeze lime  
+4. add salt  
+5. mix well  
 
